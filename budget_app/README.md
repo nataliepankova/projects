@@ -1,4 +1,4 @@
-The budget_calc.py that does this kind of stuff:
+The budget_calc.py does this kind of stuff:
 
 - you give it the name of category, initial deposit and spendings --> it gives you a receipt like this:
 
